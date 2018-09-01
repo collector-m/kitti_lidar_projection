@@ -11,7 +11,7 @@ pip install numpy
 pip install matplotlib
 ```
 
-![lidar_depth](/home/wu/lidar_projection_wjx/example/lidar_depth.png)
+![lidar_depth](https://github.com/dtwjx1994/kitti_lidar_projection/blob/master/example/lidar_height.png)
 
 ​                                                                       lidar_depth
 
