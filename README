@@ -1,0 +1,36 @@
+# kitti_lidar_projection
+
+This repo is  used to change the view of the Kitti point cloud.For detail  we use it to convert 3D view to 2D view.
+
+
+
+# install
+
+```
+pip install numpy
+pip install matplotlib
+```
+
+![lidar_depth](/home/wu/lidar_projection_wjx/example/lidar_depth.png)
+
+​                                                                       lidar_depth
+
+![lidar_height](/home/wu/lidar_projection_wjx/example/lidar_height.png)
+
+
+
+​                                                                      lidar_height
+
+![lidar_reflectance](/home/wu/lidar_projection_wjx/example/lidar_reflectance.png)
+
+
+
+​                                                                     lidar_reflectance
+
+# run
+
+```
+python main.py
+```
+
+if need ,you can modify lidar_pro.py to change the saving path.
